@@ -1,0 +1,102 @@
+17d0b980-0766-4943-9f29-87f4389acf50;footer.question;If you have any questions, please
+e61987b0-8719-47e4-aa2b-e5a71e54cac5;footer.contactLink;contact the National Defend Team.
+e3d2fd30-9b39-40b8-a2b4-d0bb3917d0d7;footer.paragraph;© 2021 Deloitte. ALL RIGHTS RESERVED. see Notices, Terms of Use and Privacy for more information. Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee ('DTTL'), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as 'Deloitte Global') does not provide services to clients. In the United States, Deloitte refers to one or more of the US member firms of DTTL, their related entities that operate using the 'Deloitte' name in the United States and their respective affiliates. Certain services may not be available to attest clients under the rules and regulations of public accounting. Please see www.deloitte.com/about to learn more about our global network of member firms.
+836022b8-eb5f-4936-8dac-8e9a0d0d9386;homepage.labelsearch;Defending our Audit market share and transforming how we do business
+8088cafa-04ae-4d4d-b429-936a87a1c700;homepage.placeholdersearch;Search Defend portfolio for a client by name or ticker
+e95dcb02-7039-487b-a96a-2c809a9dd110;homepage.selectPortfolio;Select portfolio:
+7c513c7c-d23d-4c7f-8aa5-bb578275d6b4;homepage.placeholderSelectPortfolio;Advantaged Client Portfolio (ACP)
+a6d9f725-b130-4053-8ff5-380301f57abc;homepage.fiscalYear;Fiscal Year:
+2a141259-5b2d-4857-bac1-3177dca5af05;homepage.placeholderFiscalYear;FY 2021
+ebdd85bf-4290-4fb6-bb71-5d23b7175e4c;homepage.export;Export
+e60a1307-4652-4e5f-b0f0-94a5479cc3bc;homepage.clients;Clients
+6750b2bf-69a0-4a51-84d3-96f67c9183bf;homepage.activeRFPs;Active RFPs
+9334fa4b-5dbe-4408-9171-3adeb969f9fb;homepage.PendingMA;Pending M&A
+0783f12e-71e0-405e-9327-f7dfeaed45dd;homepage.sqaCompleted;SQAs Completed
+96530ee9-30ee-4219-9bf0-7b11aba4c25c;homepage.advantagedClientPortfolio;Advantaged Client Portfolio (ACP)
+348a9547-4179-45a4-bf62-f180d18e262b;homepage.userRegionIndustry;- based on [User´s Region/Industry]
+36b837ee-ad55-4fbd-b556-34c63a3e871c;homepage.selectColumn;Select Column
+b915bc17-5b4f-48e9-a4a7-6308981d475d;homepage.table.vulnerabilityRating;Vulnerability Rating
+8e7af1a8-7a99-4492-b3ea-3b53986e732c;homepage.table.client;Client
+1d538183-c651-4005-a430-eee2ce783fb6;homepage.table.program;Program
+863b1215-23e7-40bd-a4ad-4537f1865166;homepage.table.auditFees;Audit/Related Fees (revenue)
+cac691ba-6409-4f46-b4fe-f0c8454632f7;homepage.table.auditFeesTooltip;Audit fees represent Audit and Audit-related proxy fees for SEC registrants and US-only Audit fees for non-registrants
+bc7d5b8d-b472-4faf-b739-86194314f197;homepage.table.auditorSince;Auditor Since
+b537ed25-ef5e-4f64-ab0f-92f50e55b2c1;homepage.table.fileswSEC;Files w/SEC
+0134d21d-e12d-4b53-8d06-98af0d9b6e79;homepage.table.companyType;Company Type
+0dafb546-0205-43f2-aa35-dd40565c8c06;homepage.table.fye;FYE
+3a97c3af-ea7e-4af7-8cca-64ea74a57ca8;homepage.table.region;Region
+59995442-c7a7-43fc-9f1e-f634afc36297;homepage.table.office;Office
+fad4dcba-d85e-4541-a474-a00f019e0748;homepage.table.industrySector;Industry Sector
+54d141fa-26a3-4f70-939e-4800cdc41002;homepage.table.lcsp;LCSP
+4ffaf77f-692c-4561-9398-e2f26f0f1fc6;homepage.table.lcspRole;LCSP Final Audit Year
+b5d5ad2a-cfef-4008-8568-c99330e34fc5;homepage.table.ap;AP
+f29d69d9-7eba-496b-9ecf-f896616dec81;homepage.table.apRole;AP Final Audit Year
+7078a091-926c-4967-b8f0-b71805197484;homepage.table.rating;Rating
+706630b7-d9a0-4bca-adf2-b39ef485d533;homepage.table.change;Change
+42f0b91a-32af-4ede-98d5-e651c1572688;homepage.table.dateUpdated;Date Updated
+7ebd1272-c6db-4092-a750-380e3d43d09e;header.appName;Defend
+b4fae3ea-cea9-4c98-9819-ea0553403fcd;header.mIApps;Marketplace Intelligence Apps
+b7ee3fa5-5c4f-4725-ad29-47a1b115aa04;client.clientvulnerabilityrating;Client Vulnerability Rating
+c68c178d-cda5-4352-badb-e3daec4ad354;client.relationshipVulnerability;Relationship Vulnerability Rating:
+deec4255-64bd-499f-bca5-d16f37aee5ca;client.moderate;Moderate
+1b95c051-f8b2-46dc-830a-cbadd457c8be;client.validationStatus;Validation Status:
+e3caf064-ef2a-4bdc-94b4-45d4c7fc8d3d;client.paragrahpvulnerability;The Relationship Vulnerability Rating indicates the strength of relationship and any risk of retention. If changing, please describe the issue(s) and the proposed actions along with corresponding status. About Relationship Vulnerability Rating
+54e5109f-3603-4f0b-b4eb-43b22f0db35d;client.serviceQualityAssessment;Service Quality Assessment (SQA) Status
+5711b0c4-25a0-4b6e-b58d-84b501f3e46b;client.sqasubmissionStatus;SQA Submission Status
+1c54fb6a-c1be-4c3b-a2c4-2dae41c9d47b;client.quicklinks;Quick links
+8778ce23-1801-4912-ba56-77346514cadc;client.momentsmatterdetails;Moments that Matter details
+5d141609-819c-4c92-ba43-a7bdad36a0b3;client.marketplacePricingAnalysis;Marketplace Pricing Analysis
+97beb612-5d32-4f7d-ad0e-858e6794b5e3;client.lastUpdateOn;Last update on
+aeed66d1-a672-407c-a370-464189ca2f47;client.addComment;Add a comment
+dcb85a42-ecca-4872-a41a-c57aaaf61663;client.comment;Comment
+9411a20f-60a1-42ec-ab7b-442af51d2f6e;client.createdby;Created by
+c69ce418-c995-4893-b3fb-9282d6bc0ccd;client.dateUpdated;Date Updated
+f04fddc5-d4c3-470e-a6b6-0d4e5b214e94;client.addIssue;Add an issue
+d834b77e-a5c2-486d-a55f-83156df0ecee;client.issue;Issue
+6fdbd266-52a3-4ce0-ad58-ef3c6e3dd507;client.issuesActions;Issues & Actions
+67b11250-cae6-43dc-94b3-82f0f4307e6f;client.issuepriority;Issue priority
+85fc285c-1fb6-46bf-8b5e-731df3fb4724;client.additionalIssueDetails;Additional Issue details
+e6c0678e-a8c9-42e2-9d17-4f06eb57a7cf;client.priority;Priority
+765c6029-89d9-41f8-9444-afd2a54b937c;client.issueDetails;Issue details
+8c95ce28-1e66-470e-a728-2ccdf343f39f;client.action;Action
+c5adfb43-54bf-4a72-bfbb-6172d9dfe22f;client.actionPriority;Action priority
+4aef7cf7-f8ab-41ab-bd86-0ad4d8477c98;client.actionDetails;Action details
+b12a62b1-232e-46ac-9a0a-a1758f962aa0;client.selectIssue;Select issue
+57181b17-d369-4cb8-ac24-703f40de0411;client.selectPriority;Select priority
+914db9f9-d2d5-48b4-ad5d-df7bd3de75dc;client.selectAction;Select action
+c530dea4-3708-48de-87d6-8de821d5a2c0;client.confirmCommentDeleteTitle;Confirm that you would like to delete this comment?
+bd922f74-c3ad-4cca-b43a-97ca4a606ef5;client.confirmCommentDelete;Are you sure you want to delete this comment?
+1a9b38f5-89be-40c8-a5ac-1d7d3f83f654;client.confirmIssueDeleteTitle;Confirm that you would like to delete this issue?
+861a741b-209c-40a4-b0fc-a8bcfdb958f9;client.confirmIssueDelete;Are you sure you want to delete this issue?
+986fe71d-c2c7-4c78-8bf4-f4e3ac364be1;client.deleteIssue;Delete issue
+2e1f2030-bb5d-483c-9b71-7158f249afaa;client.deleteComment;Delete comment
+7b81ce36-1632-4051-8075-3593f293e8a5;client.lastUpdated;Last updated by
+e479b606-29bd-431a-b0ce-2740682c9d40;client.comments;Comments
+34db803a-393e-434e-9237-523fdd3eb265;client.noIssuesActions;no Issues & Actions to display
+76f39e02-09f5-4e21-875c-bed3c784ee5b;client.noComments;no comments to display
+79b61175-1a0f-48fb-b898-d977f378427d;profile.program;Program
+459faeb4-b91d-4e81-8d84-ec427f8ee5aa;profile.lcsp;LCSP
+26e9f50d-2853-43f5-821f-d031652ab947;profile.secFiles;Files with SEC?
+0927fa81-5490-4bf7-b398-4832650d067a;profile.f1000;Fortune rank
+9c42b0a2-dae2-4c43-871d-9af3414218bf;profile.advisoryPartner;Advisory Partner
+7a623bce-858d-445e-9b7a-24b2663b34cc;profile.proxyFees;Proxy Fees
+8350d85a-0873-465a-92db-1caf276739a4;profile.r3000;Russell 3000
+45a0f875-a829-45e5-8dee-fbfe91d18970;profile.deloitteOffice;Deloitte Office
+e8e15b1f-2e89-481a-9145-93eff5f2deb9;profile.auditorSince;Auditor Since
+1e16f53d-3f2c-4847-ac67-2aeb41992990;profile.companyType;Company Type
+1a0f648a-0fd0-4a07-87a8-ab4e47ec3d58;profile.s&P500;S&P 500
+2d628343-0cd0-47a2-80bf-263e340378b7;profile.industrySector;Industry Sector
+b2053b03-5a9c-475d-9e41-d3e95aae849c;profile.fiscalYearEnd;Fiscal Year End (mm/dd)
+1524ae9d-cea9-40ab-bcfa-ac0f5ac8e9d0;profile.investorCompanies;Investor Companies?
+54bde26a-1bd7-47b5-8de7-e183595d5fba;profile.clientRevenue;Client Revenue
+8c9c58ea-190c-4fe6-9df4-687602523d02;profile.clientNameINC;Client Name INC
+0e3401f9-9eb2-4b64-8ac4-311e116a599f;profile.addNote;Add a note
+94bb1cf0-0dc4-4fb6-8a89-7cd26f08aef8;profile.profile;Profile
+fb4b4568-b6cb-465a-be3c-ab6236911d5a;common.region;Region
+2b4e4d61-cae1-4116-bc3b-5c78c1647f01;common.loading;Loading
+3128ff64-6e5a-4041-8d6b-7caed3e30723;common.close;Close
+ab6f8ce4-46ea-47f8-a681-b07330e03a54;common.save;Save
+e8d668d1-e723-42f6-9aed-f73a456c816f;common.edit;Edit
+35fb3955-c1b7-4724-a595-e98813ce4120;common.delete;Delete
+6dad61aa-7daf-427f-b622-2582834a230f;common.cancel;Cancel
+e3f24788-21c8-402d-beac-8c5595d63dbe;common.search;Search
