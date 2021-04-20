@@ -6,20 +6,28 @@ import sys
 
 inputFile = 'translate.json'
 outputFile = "translate.txt"
+lang = "en"
 
 nextIsInput = False
 nextIsOutput = False
+nextIsLang = False
 
 for arg in sys.argv:
   if nextIsInput:
     inputFile = arg
+    nextIsInput = False
   if nextIsOutput:
     outputFile = arg
-    nextIsInput = False
+    nextIsOutput = False
+  if nextIsLang:
+    lang = arg
+    nextIsLang = False
   if arg == "-i":
     nextIsInput = True
   if arg == "-o":
     nextIsOutput = True
+  if arg == "-l":
+    nextIsLang = True
 
 
 def createTableRecors(jsonTree, records, root):
@@ -28,7 +36,7 @@ def createTableRecors(jsonTree, records, root):
     jsonTreeKeys = jsonTree.keys()
     leafs = filter(lambda k: isinstance(jsonTree[k], str), jsonTreeKeys)
     for l in leafs:
-      records.append(f'{uuid.uuid4()};{root}.{l};{jsonTree[l]}')
+      records.append(f'{uuid.uuid4()};{root}.{l};{jsonTree[l]};{lang}')
 
     nonleafs = filter(lambda k: not isinstance(jsonTree[k], str), jsonTreeKeys)
     for nl in nonleafs:
